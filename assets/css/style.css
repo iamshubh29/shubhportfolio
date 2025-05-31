@@ -23,6 +23,10 @@
 ::after {
   --tw-content: "";
 }
+.shubh {
+  color: black;
+  font-weight: bold;
+}
 
 /*
 1. Use a consistent sensible line-height in all browsers.
